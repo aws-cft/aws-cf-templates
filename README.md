@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/widdix/aws-cf-templates.svg?branch=master)](https://travis-ci.org/widdix/aws-cf-templates)
 
-# Free Templates for AWS CloudFormation
+# Free Templates for AWS CloudFormation.
 Find the documentation for the **latest stable release** here: https://templates.cloudonaut.io/en/stable/
 
 Find the documentation for the **unstable master branch** here: https://templates.cloudonaut.io/en/latest/
